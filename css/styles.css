@@ -1,24 +1,32 @@
-
 body {
-  background-color: #F0EBE3;
+  background-color: #f0ebe3;
 }
 
 h1 {
-  color: #576F72;
- }
- h3 {
-  color: #7D9D9C;
- }
- h2 {
-  color: #7D9D9C;
- }
+  color: #576f72;
+}
+
+h3 {
+  color: #7d9d9c;
+}
+
+h2 {
+  color: #7d9d9c;
+}
 
 hr {
   background-color: transparent;
   border-style: none;
   border-top-style: dotted;
-  border-color: #576F72;
+  border-color: #576f72;
   border-width: 5px;
   width: 5%;
 }
- 
+
+#profpic {
+  height: 240px;
+}
+
+#profpic:active {
+  height: 255px;
+}
